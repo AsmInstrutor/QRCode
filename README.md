@@ -7,12 +7,19 @@
 # Termux:
 ```bash
 apt-get install git
+
 git clone https://github.com/AsmInstrutor/QRCode.git
+
 cd QRCode
+
 pkg install python
+
 pip install pyqrcode
+
 pip install png
+
 pip install lolcat
+
 apt-get install figlet
 
 python qrcode.py
