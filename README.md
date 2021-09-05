@@ -29,12 +29,19 @@ python qrcode.py
 # Linux:
 ```bash
 apt-get install git
+
 pip install pyqrcode
+
 pip install png
+
 pip install lolcat
+
 apt-get install figlet
+
 git clone https://github.com/AsmInstrutor/QRCode.git
+
 cd QRCode
+
 python qrcode.py
 ```
 
