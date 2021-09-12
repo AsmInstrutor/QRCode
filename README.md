@@ -8,4 +8,18 @@
    
     apt-get update -y && apt-get upgrade -y
     apt-get install python -y
+    apt-get install figlet -y
+    apt-get install git -y
+    pip install pyqrcode -y
+    pip install png
+    pip install lolcat -y
     
+   ___Agora iremos clonar o repositório:___
+    
+    cd $HOME
+    git clone
+
+   ___Depois de clonar o repositório, é só executar:___
+   
+    cd QRCode
+    python 
