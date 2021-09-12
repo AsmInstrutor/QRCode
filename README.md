@@ -17,9 +17,15 @@
    ___Agora iremos clonar o repositório:___
     
     cd $HOME
-    git clone
+    git clone https://github.com/AsmInstrutor/QRCode.git
 
    ___Depois de clonar o repositório, é só executar:___
    
     cd QRCode
-    python 
+    python qrcode.py
+    
+   - Agora que você executou o projeto, apenas aguarde alguns segundos, e aparecerá um campo para que você digite ou cole o link que deseja transformar em QR code!
+
+   #Nota:
+   
+   ___Peço a todos os usuários desses softwares, que deixem seus votos, para ver se estão gostando dos projetos que estou fazendo para vocês! Obrigado💫!___
