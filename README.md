@@ -5,7 +5,7 @@
 
 # Modo de uso:
 
-   ___Primeiro vamos instalar algumas dependências:
+   ___Primeiro vamos instalar algumas dependências:___
    
     apt-get update -y && apt-get upgrade -y
     apt-get install python -y
